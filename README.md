@@ -27,6 +27,24 @@ I'm a software development student passionate about solving complicated problems
 
 - 💬 Ask me about **Git, React, Next, AI tools, Getting the Software Engineering Job**
 
+  <h3 align="left">My Github Stats:</h3>
+
+<table >
+  <tr>
+    <td>
+      <a href="https://github.com/techwithtwin"><img alt="techwithtwin' Github Stats" src="https://github-readme-stats.vercel.app/api?username=techwithtwin&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" />
+    </td>
+    <td>
+       <a href="http://www.github.com/techwithtwin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=techwithtwin&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    </td>
+    </td>
+    <td>
+      <a align="center" href="https://github.com/techwithtwin"><img alt="Rodgers' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techwithtwin&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
+    </td>
+  </tr>
+
+</table>
+
 ## <img height="40" src="https://github.com/techwithtwin/techwithtwin/blob/main/kyubey.gif"/>Links
 
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](http://linkedin.com/in/techwithtwin)
