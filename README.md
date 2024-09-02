@@ -10,9 +10,6 @@
 
 I'm a software development student passionate about solving complicated problems and creating web software solutions. I heart Open Source, and therefore, I take great pleasure in working on interesting open-source projects.
 
-<br>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=techwithtwin&theme=dark)](https://git.io/streak-stats)
 
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techwithtwin&margin-w=15&margin-h=15" alt="Techwithtwin" /></a> </p> -->
