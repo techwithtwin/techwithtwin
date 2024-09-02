@@ -24,7 +24,7 @@ I'm a software development student passionate about solving complicated problems
 
 - 💬 Ask me about **Git, React, Next, AI tools, Getting the Software Engineering Job**
 
-## <img height="40" src="https://github.com/techwithtwin/techwithtwin/blob/master/kyubey.gif"/>Links
+## <img height="40" src="https://github.com/techwithtwin/techwithtwin/blob/main/kyubey.gif"/>Links
 
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](http://linkedin.com/in/techwithtwin)
 [![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/techwithtwin)
