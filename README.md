@@ -4,15 +4,15 @@
 
 </p>
 
-[![Github](https://img.shields.io/github/followers/bonface221?label=Follow&style=social)](https://github.com/techwithtwin)
+[![Github](https://img.shields.io/github/followers/techwithtwin?label=Follow&style=social)](https://github.com/techwithtwin)
 
 <h3> &nbsp;👩🏾‍💻 About Me </h3>
 
 I'm a software development student passionate about solving complicated problems and creating web software solutions. I heart Open Source, and therefore, I take great pleasure in working on interesting open-source projects.
 
 <br>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techwithtwin&margin-w=15&margin-h=15" alt="Techwithtwin" /></a> </p>
+<!-- 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techwithtwin&margin-w=15&margin-h=15" alt="Techwithtwin" /></a> </p> -->
 
 - 🎥 I’m currently building: **Fullstack web apps**
 
@@ -30,6 +30,7 @@ I'm a software development student passionate about solving complicated problems
 [![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/techwithtwin)
 [![](https://img.shields.io/badge/Facebook-1877F2?style=flat-square)](https://www.facebook.com/bonface.maina.186)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mainaboniface221@gmail.com)](mailto:mainaboniface221@gmail.com)
+
 <!---
 
 - 👋 Hi, I’m @realwebtechguru
