@@ -10,8 +10,8 @@
 
 I'm a software development student passionate about solving complicated problems and creating web software solutions. I heart Open Source, and therefore, I take great pleasure in working on interesting open-source projects.
 
-<br>
-<!-- 
+<!-- <br> -->
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techwithtwin&margin-w=15&margin-h=15" alt="Techwithtwin" /></a> </p> -->
 
 - 🎥 I’m currently building: **Fullstack web apps**
