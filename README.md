@@ -38,15 +38,15 @@ I'm a software development student passionate about solving complicated problems
 
 </table>
 
-<h3 align="left">Why is the Account new?:</h3>
-
-Because previous github account was closed unceremoniously (bonface221)
-
-![previous github account](./previous-account.png)
-
 ## <img height="40" src="https://github.com/techwithtwin/techwithtwin/blob/main/kyubey.gif"/>Links
 
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](http://linkedin.com/in/techwithtwin)
 [![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/techwithtwin)
 [![](https://img.shields.io/badge/Facebook-1877F2?style=flat-square)](https://www.facebook.com/bonface.maina.186)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mainaboniface221@gmail.com)](mailto:mainaboniface221@gmail.com)
+
+<h3 align="left">Why is the Account new?:</h3>
+
+Because the previous github account was closed unceremoniously, without any explanation😶 (bonface221)
+
+![previous github account](./previous-account.png)
