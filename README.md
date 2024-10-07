@@ -12,13 +12,13 @@ I'm a software development student passionate about solving complicated problems
 
 - 🎥 I’m currently building: **Fullstack web apps**
 
-- 🌱 I’m currently learning: **Azure AI Services, AWS Amplify, PHP and Go**
+- 🌱 I’m currently learning: **Express, PHP and Go**
 
 - 🎥 I’m building next and react applications.
 
 - 🤝 I’m looking for open-source projects to work on
 
-- 💬 Ask me about **Git, React, Next, AI tools, Getting the Software Engineering Job**
+- 💬 Ask me about **Git, React, Next, Django, Flask**
 
 <h3 align="left">My Github Stats:</h3>
 
