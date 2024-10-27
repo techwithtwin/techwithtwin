@@ -47,6 +47,6 @@ I'm a software development student passionate about solving complicated problems
 
 <h3 align="left">Why is the Account new?:</h3>
 
-Because the previous github account was closed unceremoniously, without any explanation😶 (bonface221)
+Check out my other Account [bonface221](https://github.com/bonface221)😍
 
 ![previous github account](./previous-account.png)
