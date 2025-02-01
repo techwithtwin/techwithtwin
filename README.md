@@ -14,7 +14,7 @@ I'm a software development student passionate about solving complicated problems
 
 - 🌱 I’m currently learning: **Express, PHP and Go**
 
-- 🎥 I’m building next and react applications.
+- 🎥 I’m building next and spring boot applications.
 
 - 🤝 I’m looking for open-source projects to work on
 
