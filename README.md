@@ -44,8 +44,3 @@ I'm a software development student passionate about solving complicated problems
 [![](https://img.shields.io/badge/Facebook-1877F2?style=flat-square)](https://www.facebook.com/bonface.maina.186)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mainaboniface221@gmail.com)](mailto:mainaboniface221@gmail.com)
 
-<h3 align="left">Why is the Account new?:</h3>
-
-Check out my other Account [bonface221](https://github.com/bonface221)😍
-
-![previous github account](./previous-account.png)
