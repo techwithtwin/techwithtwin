@@ -1,5 +1,4 @@
-## Hey :wave:, I'm Bonnie
-
+## Hey :wave:, I'm Bonface Maina ( TechWithTwin )
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techwithtwin&label=Profile%20views&color=0e75b6&style=flat" alt="bonface221" />
 
 </p>
@@ -12,13 +11,13 @@ I'm a software development student passionate about solving complicated problems
 
 - 🎥 I’m currently building: **Fullstack web apps**
 
-- 🌱 I’m currently learning: **Express, PHP and Go**
+- 🌱 I’m currently learning: **Go** and **Cybersecurity**.
 
-- 🎥 I’m building next and spring boot applications.
+- 🎥 I’m building **Next js** applications.
 
 - 🤝 I’m looking for open-source projects to work on
 
-- 💬 Ask me about **Git, React, Next, Django, Flask**
+- 💬 Ask me about **Git, React, Next js, Django, Express js**
 
 <h3 align="left">My Github Stats:</h3>
 
